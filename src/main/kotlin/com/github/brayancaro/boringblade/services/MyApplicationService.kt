@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.brayancaro.boringblade.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.brayancaro.boringblade.MyBundle
 
 class MyApplicationService {
 
